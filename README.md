@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Donald
+
+I'm a junior web developer passionate about building useful tools with JavaScript and Python.
+
+🧰 Currently learning Laravel and PHP for backend systems  
+📦 Projects:
+- [IoT Intrusion Detection](https://github.com/adeoladonald/NIDS)
+- [Paired Health Website](https://pairedhealthsolutions.org.uk)
+
+🌱 Always learning, always building.
+
 
 <!--
 **adeoladonald/adeoladonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
