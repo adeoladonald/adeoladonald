@@ -2,10 +2,15 @@
 
 I'm a junior web developer passionate about building useful tools with JavaScript and Python.
 
-🧰 Currently learning Laravel and PHP for backend systems  
+Trying to master:
+- JavaScript: The language that lets me break my website  
+- Kali Linux: The OS that lets me break everything else (ethically)
+  
 📦 Projects:
 - [IoT Intrusion Detection](https://github.com/adeoladonald/NIDS)
 - [Paired Health Website](https://pairedhealthsolutions.org.uk)
+
+📚 If it compiles, ships, or hacks — I want to learn it.
 
 🌱 Always learning, always building.
 
