@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Donald
 
-I'm a junior web developer and cybersecurity enthusiast passionate about building useful tools with JavaScript and Python.
+I'm a web developer and cybersecurity enthusiast passionate about building useful tools with JavaScript and Python.
 
 Trying to master:
 - JavaScript: The language that lets me break my website  
 - Kali Linux: The OS that lets me break everything else (ethically)
+- Laravel: Elegant, powerful, and humbling every time I mistype a route name
   
 📦 Projects:
 - [IoT Intrusion Detection](https://github.com/adeoladonald/NIDS)
 - [Paired Health Website](https://pairedhealthsolutions.org.uk)
+- Laravel project (Work In Progress)
 
 📚 If it compiles, ships, or hacks — I want to learn it.
 
