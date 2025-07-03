@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Donald
 
-I'm a web developer and cybersecurity enthusiast passionate about building useful tools with JavaScript and Python.
+I'm a web developer and cybersecurity enthusiast passionate about building useful tools with JavaScript, Python, Laravel and Linux.
 
 Trying to master:
 - JavaScript: The language that lets me break my website  
