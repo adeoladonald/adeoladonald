@@ -6,11 +6,11 @@ Trying to master:
 - JavaScript: The language that lets me break my website  
 - Kali Linux: The OS that lets me break everything else (ethically)
 - Laravel: Elegant, powerful, and humbling every time I mistype a route name
+- SQL: The world runs on databases so why not?
   
 📦 Projects:
 - [IoT Intrusion Detection](https://github.com/adeoladonald/NIDS)
 - [Paired Health Website](https://pairedhealthsolutions.org.uk)
-- Laravel project (Work In Progress)
 
 📚 If it compiles, ships, or hacks — I want to learn it.
 
